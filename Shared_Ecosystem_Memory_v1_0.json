@@ -1,0 +1,77 @@
+{
+  "_comment": "Shared Memory for Martin Lungley's AI Ecosystem - All engines read/write this file",
+  "format_version": "1.0",
+  "last_updated": "2026-01-03T00:00:00Z",
+  "updated_by": "Initial Template",
+  
+  "universal_preferences": {
+    "communication_style": "concise",
+    "verbosity_protocol": "active",
+    "preferred_format": "bullets",
+    "language": "English",
+    "discussion_mode_preference": "brief_without_examples"
+  },
+  
+  "constitutional_decisions": {
+    "decision_outputs_format": "GO/FIX/REVISE/HOLD/STOP",
+    "decision_outputs_notes": "Draft - will evolve based on usage",
+    "command_grammar_version": "1.1",
+    "scoring_standards": {
+      "modified": false,
+      "cap_at_95": true,
+      "quality_target": 80,
+      "notes": "Standard 0-100 scale maintained"
+    }
+  },
+  
+  "cross_engine_patterns": {
+    "enhancement_patterns_mastered": [],
+    "tier_progression": {
+      "current_tier": 2,
+      "tier_name": "Intermediate",
+      "date_advanced": null,
+      "next_tier_target": 3,
+      "progression_criteria": "Master 3+ Tier 2 patterns, demonstrate Tier 3 understanding"
+    },
+    "learning_velocity": {
+      "builds_completed": 0,
+      "avg_quality_score": 0,
+      "last_10_scores": [],
+      "trend": "baseline"
+    },
+    "common_patterns_requested": {
+      "intelligence_depth": "STANDARD",
+      "outsource_preference": "manual_phase_3",
+      "lens_detail_level": "EX_typical_SC_rare"
+    }
+  },
+  
+  "session_continuity": {
+    "last_engine_used": "",
+    "last_session_date": "",
+    "last_session_outcome": "",
+    "pending_handovers": [],
+    "cross_session_context": ""
+  },
+  
+  "ecosystem_metadata": {
+    "total_sessions": 0,
+    "engines_active": ["Planner v2.2", "Architect v2.1", "Validator v1.0"],
+    "library_versions": {
+      "universal": "1.1",
+      "procedural": "1.1",
+      "deliberative": "1.0",
+      "templates": "1.0"
+    },
+    "memory_created": "2026-01-03",
+    "user": "Martin Lungley",
+    "location": "London, England, GB"
+  },
+  
+  "usage_notes": {
+    "how_to_update": "Edit this file in Google Drive, changes apply next session",
+    "backup_recommended": "Monthly export for version history",
+    "privacy": "User owns all data, can delete anytime",
+    "decay": "Not implemented in v1.0 - all data persistent"
+  }
+}
